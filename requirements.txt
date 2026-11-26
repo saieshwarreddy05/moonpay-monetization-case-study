@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+google-cloud-bigquery
+google-auth
+db-dtypes
+jupyter
+nbformat
